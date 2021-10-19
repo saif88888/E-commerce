@@ -1,5 +1,4 @@
-jsamazona
-
+Notes
 to show project on live server using npm
 
 covert our folder to npm project
