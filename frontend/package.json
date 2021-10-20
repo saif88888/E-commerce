@@ -6,7 +6,8 @@
   "scripts": {
     "start": "webpack-dev-server --watch-content-base --open",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "build": "my_script_to_build"
   },
   "author": "",
   "license": "ISC",
