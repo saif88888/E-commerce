@@ -19,5 +19,5 @@
   "dependencies": {
     "axios": "^0.22.0"
   },
-  "homepage": "https://vigorous-ritchie-7d5009.netlify.app/"
+  "homepage": "."
 }
